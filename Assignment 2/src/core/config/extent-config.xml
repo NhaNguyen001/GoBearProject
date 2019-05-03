@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <documentTitle>ProjectName - Automation Test Report For Mobile</documentTitle>
+        <reportName>ProjectName - </reportName>
+        <reportHeadline>Automation Test Report For Mobile</reportHeadline>
+    </configuration>
+</extentreports>

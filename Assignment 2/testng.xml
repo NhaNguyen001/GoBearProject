@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Daily Run Suite">
+	<!-- <test name="Client App Suite"> <classes> <class name="test.client.UC1" 
+		/> <class name="test.client.UC2_3" /> <class name="test.client.UC4_5" /> 
+		</classes> </test> -->
+	<test name="Front Office">
+		<classes>
+			<class name="projectName.frontend.test.t_Login" />
+			<class name="projectName.frontend.test.t_LoginDevice" />
+		</classes>
+	</test>
+</suite>

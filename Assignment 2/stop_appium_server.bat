@@ -1,0 +1,1 @@
+psexec -i 2 -s -d \\192.168.1.121 -u soxes-vn -p soxesvn123 C:\AT\AutoStart\stop_appium_server.bat
